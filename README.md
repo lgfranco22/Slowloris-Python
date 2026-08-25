@@ -187,12 +187,6 @@ O comportamento também depende de diversos fatores, como:
 * recursos disponíveis;
 * versão e configuração do servidor web.
 
-## Licença
-
-Distribuído sob a licença definida no arquivo `LICENSE`.
-
-Consulte o arquivo de licença antes de utilizar, modificar ou redistribuir este projeto.
-
 ---
 
 ## ⚠️ Uso responsável
